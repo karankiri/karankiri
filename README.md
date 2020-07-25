@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Karan!](https://www.karankiri.com/) 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karankiri&count_private=true&show_icons=true&icon_color=4AB795&bg_color=202020&title_color=ffffff&text_color=9f9f9f)
 <!--
 **karankiri/karankiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
