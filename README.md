@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karankiri" alt="karankiri" /> </p>
 
 - 👨‍💻 Personal Website [karankiri.com/](https://karankiri.com/)
-
 - 📫 Email **karankiri.96@gmail.com**
 
 ### Blogs posts
