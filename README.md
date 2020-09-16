@@ -6,7 +6,7 @@
 - 👨‍💻 Personal Website [karankiri.com/](https://karankiri.com/)
 - 📫 Email **karankiri.96@gmail.com**
 
-### Blogs posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Maximum Subarray. Leetcode#Day3](https://medium.com/@karankiri/maximum-subarray-leetcode-day3-484cb60abc8?source=rss-81701a6c0af1------2)
